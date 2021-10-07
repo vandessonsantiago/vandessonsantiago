@@ -2,6 +2,10 @@
 
 Sou iniciante em desenvolvimento e estou apreendendo algumas tecnologias do universo front-end e back-end, como por exemplo HTML, CSS, JavaScript, Python/Django e SQL/PostgreSQL.
 
+Sou aluno do curso on-line: Profissão - Desenvolvedor Full Stack Python da Escola Britânica de Artes Criativas & Tecnologia (EBAC) e para acelerar o aprendizado estou realizando as missões do NLWtogether - Rocketseat.
+
+Migrando de carreira, hoje "estou"advogado com algumas especializações, mas focado e desenvolvendo as habilidades necessárias para me inserir no mercado de desenvolvimento de sistemas Fullstack.
+
 <div style="display: inline_block"><br>
   
   <img align="center" alt="Vand-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -14,9 +18,12 @@ Sou iniciante em desenvolvimento e estou apreendendo algumas tecnologias do univ
 </div>
 
 ##
-Sou aluno do curso on-line: Profissão - Desenvolvedor Full Stack Python da Escola Britânica de Artes Criativas & Tecnologia (EBAC) e para acelerar o aprendizado estou realizando as missões do NLWtogether - Rocketseat.
+<h4>Formação Acadêmica:</h4>
 
-Migrando de carreira, hoje "estou"advogado com algumas especializações, incluindo um nanodegree em Direito Digital e LGPD, mas estou focado e desenvolvendo as habilidades necessárias para me inserir no mercado de desenvolvimento de sistemas Fullstack.
+Bacharel em Direito (FAMETRO-AM)- Advogado desde 2017 - Inscrição seccional Amazonas-BR.
+Nanodegree em Direito Digital e LGPD - (EBRADI-SP).
+Pós-graduado em Direito e Gestão Aeronáutica - (UNISUL-SC).
+Pós-graduando em Direito Contratual e Responsabilidade Civil - (EBRADI-SP).
 
 ##
 
