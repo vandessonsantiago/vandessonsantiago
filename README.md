@@ -20,10 +20,10 @@ Migrando de carreira, hoje "estou"advogado com algumas especializações, mas fo
 ##
 <h4>Formação Acadêmica:</h4>
 
-Bacharel em Direito (FAMETRO-AM)- Advogado desde 2017 - Inscrição seccional Amazonas-BR.
+Bacharel em Direito (FAMETRO-AM)- Advogado desde 2017 - Brasil e Portugal.
 Nanodegree em Direito Digital e LGPD - (EBRADI-SP).
 Pós-graduado em Direito e Gestão Aeronáutica - (UNISUL-SC).
-Pós-graduando em Direito Contratual e Responsabilidade Civil - (EBRADI-SP).
+Mestrando em Direito Transnacional da Empresa e das Tecnologias Digitais - (Uminho-PT e USC-ES).
 
 ##
 
