@@ -1,6 +1,6 @@
 # Olá! Eu sou Vandesson Santiago
 
-Sou iniciante em desenvolvimento e estou apreendendo algumas tecnologias do universo front-end e back-end, como por exemplo HTML, CSS, JavaScript, NodeJS, ReactJS e React Native.
+Sou iniciante em desenvolvimento e estou apreendendo algumas tecnologias do universo front-end e back-end, como por exemplo HTML, CSS, JavaScript, NodeJS, SQLite, ReactJS e React Native.
 
 Migrando de carreira, hoje "estou" advogado com algumas especializações, mas focado e desenvolvendo as habilidades necessárias para me inserir no mercado de desenvolvimento web e de aplicativos para dispositivos móveis.
 
@@ -10,6 +10,7 @@ Migrando de carreira, hoje "estou" advogado com algumas especializações, mas f
   <img align="center" alt="Vand-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vand-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vand-nodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Vand-SQlite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
   <img align="center" alt="Vand-reactJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
