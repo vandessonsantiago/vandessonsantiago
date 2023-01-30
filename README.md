@@ -1,8 +1,8 @@
 # Olá! Eu sou Vandesson Santiago
 
-Sou iniciante em desenvolvimento e estou apreendendo algumas tecnologias do universo front-end e back-end, como por exemplo HTML, CSS, JavaScript.
+Sou iniciante em desenvolvimento e estou apreendendo algumas tecnologias do universo front-end e back-end, como por exemplo HTML, CSS, JavaScript, NodeJS, ReactJS e React Native.
 
-Migrando de carreira, hoje "estou" advogado com algumas especializações, mas focado e desenvolvendo as habilidades necessárias para me inserir no mercado de desenvolvimento wep a aplicativos para dispositivos móveis.
+Migrando de carreira, hoje "estou" advogado com algumas especializações, mas focado e desenvolvendo as habilidades necessárias para me inserir no mercado de desenvolvimento web e de aplicativos para dispositivos móveis.
 
 <div style="display: inline_block"><br>
   
