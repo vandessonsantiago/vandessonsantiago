@@ -1,8 +1,8 @@
 # Olá! Eu sou Vandesson Santiago
 
-Sou iniciante em desenvolvimento e estou apreendendo algumas tecnologias do universo front-end e back-end, como por exemplo HTML, CSS, JavaScript, NodeJS, SQLite, ReactJS e React Native.
+Sou desenvolvedor web e estudo algumas tecnologias do universo front-end e back-end, como por exemplo HTML, CSS, JavaScript, NodeJS, SQLite, ReactJS e React Native.
 
-Migrando de carreira, hoje "estou" advogado com algumas especializações, mas focado e desenvolvendo as habilidades necessárias para me inserir no mercado de desenvolvimento web e de aplicativos para dispositivos móveis.
+Migrando de carreira, da advocacia com algumas especializações, mas focado e desenvolvendo as habilidades necessárias para me inserir no mercado de desenvolvimento web e de aplicativos para dispositivos móveis.
 
 <div style="display: inline_block"><br>
   
@@ -33,4 +33,4 @@ Mestrando em Direito Transnacional da Empresa e das Tecnologias Digitais - (Umin
 </div>
 
 - Criado em 06/10/2021.
-- Última atualização em 30/01/2023.
+- Última atualização em 11/02/2023.
