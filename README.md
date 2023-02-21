@@ -26,11 +26,5 @@ Mestrando em Direito Transnacional da Empresa e das Tecnologias Digitais - (Umin
 
 [![Linkedin Badge](https://img.shields.io/badge/-Vandesson%20Santiago-26ab8c?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vandesson-santiago-95780b79/)](https://www.linkedin.com/in/vandesson-santiago-95780b79/)
 
-<div> 
-   
-  ![Snake animation](https://github.com/vandessonsantiago/vandessonsantiago/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
-
 - Criado em 06/10/2021.
 - Última atualização em 11/02/2023.
