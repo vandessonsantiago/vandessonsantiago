@@ -1,6 +1,6 @@
 # Olá! Eu sou Vandesson Santiago
 
-Sou desenvolvedor web e estudo algumas tecnologias do universo front-end e back-end, como por exemplo HTML, CSS, JavaScript, NodeJS, SQLite, ReactJS e React Native.
+Sou desenvolvedor web e utilizo algumas tecnologias do universo front-end e back-end, como por exemplo HTML, CSS, JavaScript, NodeJS, SQLite, ReactJS e React Native.
 
 Migrando de carreira, da advocacia com algumas especializações, mas focado e desenvolvendo as habilidades necessárias para me inserir no mercado de desenvolvimento web e de aplicativos para dispositivos móveis.
 
