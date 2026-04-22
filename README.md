@@ -1,7 +1,5 @@
-# Olá! Eu sou Vandesson Santiago
-
-
-Sou advogado, desenvolvedor e empreendedor. 
+Olá! Eu sou Vandesson Santiago.
+Advogado, desenvolvedor e empreendedor. 
 
 ##
 <h4>Formação Acadêmica:</h4>
