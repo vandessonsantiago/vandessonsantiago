@@ -1,8 +1,6 @@
 # Olá! Eu sou Vandesson Santiago
 
-Sou desenvolvedor web e utilizo algumas tecnologias do universo front-end e back-end, como por exemplo HTML, CSS, JavaScript, NodeJS, SQLite, ReactJS e React Native.
-
-Migrando de carreira, da advocacia com algumas especializações, mas focado e desenvolvendo as habilidades necessárias para me inserir no mercado de desenvolvimento web e de aplicativos para dispositivos móveis.
+Sou advogado, desenvolvedor e empreendedor. 
 
 ##
 <h4>Formação Acadêmica:</h4>
@@ -17,4 +15,4 @@ Mestrando em Direito Transnacional da Empresa e das Tecnologias Digitais - (Umin
 [![Linkedin Badge](https://img.shields.io/badge/-Vandesson%20Santiago-26ab8c?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vandesson-santiago-95780b79/)](https://www.linkedin.com/in/vandesson-santiago-95780b79/)
 
 - Criado em 06/10/2021.
-- Última atualização em 11/02/2023.
+- Última atualização em 21/04/2026.
